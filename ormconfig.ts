@@ -1,4 +1,4 @@
-import manifest from './src/manifest';
+import manifest from './manifest';
 
 const ormConfig = {
     ...manifest.database,
